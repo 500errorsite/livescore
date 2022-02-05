@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /policy/
+Disallow: /terms/
+Disallow: /cookies/
+Disallow: /score/soccer/
+Disallow: /soccer/match/
+sitemap: https://score.bongda365.club/sitemap.xml
