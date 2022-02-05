@@ -3,13 +3,13 @@
 $LicenseKey = '44e754756f5b502ffd57';
 
 // Domain name
-$SiteUrl = '//score.bongda365.club';
+$SiteUrl = '//97.74.85.80/';
 
 // Default Page Title 
 $DefaultTitle = 'Bongda365 LiveScore: 100% Free LIVESCORE Football & match RESULTS today';
 
 // Admin email address
-$AdminEmail = 'contact@bongda365.club';
+$AdminEmail = 'contact@kucingkecil.com';
 
 // Scores Source URL
 $ScoresSource = 'http://alpha.livescores.com';
